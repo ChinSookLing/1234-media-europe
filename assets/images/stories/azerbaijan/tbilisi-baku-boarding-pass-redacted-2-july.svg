@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-label="Privacy-safe boarding pass from Tbilisi to Baku on 2 July 2024">
+  <rect width="1200" height="620" rx="38" fill="#f7efe0"/>
+  <rect x="0" y="0" width="1200" height="120" fill="#263f63"/>
+  <text x="70" y="78" font-family="Georgia, serif" font-size="46" fill="#fff">BOARDING PASS</text>
+  <text x="830" y="78" font-family="Arial, sans-serif" font-size="30" fill="#d8e6ff">PRIVACY-SAFE COPY</text>
+
+  <text x="80" y="210" font-family="Arial, sans-serif" font-size="26" fill="#7a6a55">FROM</text>
+  <text x="80" y="285" font-family="Georgia, serif" font-size="82" fill="#2b241d">TBILISI</text>
+  <text x="80" y="330" font-family="Arial, sans-serif" font-size="32" fill="#7a6a55">TBS</text>
+
+  <text x="505" y="290" font-family="Georgia, serif" font-size="70" fill="#2b241d">→</text>
+
+  <text x="660" y="210" font-family="Arial, sans-serif" font-size="26" fill="#7a6a55">TO</text>
+  <text x="660" y="285" font-family="Georgia, serif" font-size="82" fill="#2b241d">BAKU</text>
+  <text x="660" y="330" font-family="Arial, sans-serif" font-size="32" fill="#7a6a55">GYD</text>
+
+  <line x1="80" y1="390" x2="1120" y2="390" stroke="#d8cbb5" stroke-width="3"/>
+
+  <text x="80" y="455" font-family="Arial, sans-serif" font-size="25" fill="#7a6a55">DATE</text>
+  <text x="80" y="508" font-family="Georgia, serif" font-size="48" fill="#2b241d">02 JUL 2024</text>
+
+  <text x="430" y="455" font-family="Arial, sans-serif" font-size="25" fill="#7a6a55">TRAVEL NOTE</text>
+  <text x="430" y="508" font-family="Georgia, serif" font-size="40" fill="#2b241d">Toyotaki travelled separately.</text>
+
+  <text x="80" y="580" font-family="Arial, sans-serif" font-size="22" fill="#9a8a73">Personal details, ticket number, barcode, and name intentionally hidden.</text>
+</svg>

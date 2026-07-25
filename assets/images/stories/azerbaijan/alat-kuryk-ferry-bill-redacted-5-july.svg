@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Privacy-safe ferry bill summary from Alat to Kuryk on 5 July 2024">
+  <rect width="1200" height="720" rx="34" fill="#f7efe0"/>
+  <rect x="0" y="0" width="1200" height="118" fill="#24445f"/>
+  <text x="70" y="76" font-family="Georgia, serif" font-size="44" fill="#ffffff">Ferry Passage Summary</text>
+  <text x="820" y="76" font-family="Arial, sans-serif" font-size="28" fill="#d8e6ff">PRIVACY-SAFE COPY</text>
+
+  <rect x="70" y="160" width="1060" height="430" rx="24" fill="#fffaf0" stroke="#d8cbb5" stroke-width="3"/>
+
+  <text x="110" y="225" font-family="Arial, sans-serif" font-size="24" fill="#7a6a55">VESSEL</text>
+  <text x="110" y="280" font-family="Georgia, serif" font-size="50" fill="#2b241d">Zarifa Aliyeva</text>
+
+  <text x="110" y="360" font-family="Arial, sans-serif" font-size="24" fill="#7a6a55">PORT OF LOADING</text>
+  <text x="110" y="415" font-family="Georgia, serif" font-size="48" fill="#2b241d">Alat, Azerbaijan</text>
+
+  <text x="650" y="360" font-family="Arial, sans-serif" font-size="24" fill="#7a6a55">PORT OF DISCHARGE</text>
+  <text x="650" y="415" font-family="Georgia, serif" font-size="48" fill="#2b241d">Kuryk, Kazakhstan</text>
+
+  <line x1="110" y1="468" x2="1090" y2="468" stroke="#d8cbb5" stroke-width="3"/>
+
+  <text x="110" y="525" font-family="Arial, sans-serif" font-size="24" fill="#7a6a55">DATE</text>
+  <text x="110" y="575" font-family="Georgia, serif" font-size="42" fill="#2b241d">05 July 2024</text>
+
+  <text x="390" y="525" font-family="Arial, sans-serif" font-size="24" fill="#7a6a55">SEA CROSSING</text>
+  <text x="390" y="575" font-family="Georgia, serif" font-size="42" fill="#2b241d">about 30 hours</text>
+
+  <text x="760" y="525" font-family="Arial, sans-serif" font-size="24" fill="#7a6a55">TRIP COST NOTE</text>
+  <text x="760" y="575" font-family="Georgia, serif" font-size="38" fill="#2b241d">Ferry USD 560</text>
+
+  <text x="70" y="650" font-family="Arial, sans-serif" font-size="23" fill="#8b7a63">
+    Personal name, passport, plate number, bill number, and barcode details are intentionally hidden.
+  </text>
+  <text x="70" y="685" font-family="Arial, sans-serif" font-size="23" fill="#8b7a63">
+    Related road transfer note: Toyotaki transport from Georgia/Tbilisi to Baku cost USD 580.
+  </text>
+</svg>
